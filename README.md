@@ -40,3 +40,9 @@ cv2.imshow("RGB Resim", img_rgb)
 cv2.waitKey(0)
 print("bitti")  # Konsola bilgi verir
 cv2.destroyAllWindows()
+```
+## RESİMLER SIRASIYLA
+![Kullanılan Görsel Örneği]("C:\work_work\elektrik.jpeg")
+![Doğrudan Gri Okunmuş Görsel Örneği]("C:\work_work\elektrik2.jpeg")
+![Griye Çevirilmiş Görsel Örneği]("C:\work_work\elektrik3.jpeg")
+![BGR Formatındaki Resmin RGB'ye Çevirilmiş Örneği]("C:\work_work\elektrik4.jpeg")
