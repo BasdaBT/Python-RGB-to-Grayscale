@@ -15,6 +15,7 @@ Bu kodu çalıştırabilmek için aşağıdaki kütüphaneyi kurmanız gerekir:
  
 ```python
 import cv2
+import numpy as np
 
 #1.Görseli doğrudan gri olarak oku
 img = cv2.imread(r'C:\work_work\elektrik.jpeg', cv2.IMREAD_GRAYSCALE)
